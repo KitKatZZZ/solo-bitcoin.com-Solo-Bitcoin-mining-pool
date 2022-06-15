@@ -1,3 +1,31 @@
+Solo-Bitcoin.com
+
+Solo-Bitcoin.com a community driven 0% fee with 100% of the block reward going to the miner whom chip “CPU, GPU or ASIC” solved the Bitcoin block
+
+Access to real time Master Log for solo-bitcoin.com pool .See what solo-bitcoin.com is doing.Don't Trust...Verfiy!
+transparency is everything when electric cost and hashpower is on the line. See exactly what our pool is doing. Solo mine with peace of mind knowing your electric and hashpower is properly being utilized to give you a better chance to gain the 6.25 BTC block reward
+
+Chip based reward.
+
+The goal is for Solo-Bitcoin.com  pool to reward the specific miner whom actual chip solved the block reward. This way no matter your mining rig CPU, GPU or  ASIC . The exact miner who owns that chip gets the full 6.25 BTC reward.  The overall goal is to pool all hashpower to act as one miner to have better chances against the high difficulty but reward even the smallest miner with the 6.25 BTC with 0% fee.
+
+Current status is in development with blocks already solved on the Bitcoin testnet
+testnet solved blocks
+
+solo-bitcoin.com pool is based off of ckpool  
+
+To-Do:
+
+    
+    1.Modify ckpool source to set the chip based rewards with full transparent logging. Know exactly who is getting the bitcoin block reward to whoms chip
+
+
+solo-bitcoin.com solo pool is NOT for profit 
+
+
+
+From Ckpool read me
+
 CKPOOL + CKPROXY + libckpool by Con Kolivas
 
 Ultra low overhead massively scalable multi-process, multi-threaded modular
